@@ -275,8 +275,3 @@ plt.xlabel('Hora (Local)')
 plt.ylabel('Concentração de CO(ppb)')
 plt.title('Ciclo diurno médio de CO em diferentes níveis')
 plt.legend(['4 m', '24 m', '38 m', '53 m', '79 m'])
-
-"""Produção de relatório semestra
-
-Foi feita uma alteração no código de indexação da data, pois o código antigo estava travando as operações de conversão da data, nas diferentes frequências de tempo pedidas.
-"""
